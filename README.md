@@ -1,2 +1,2 @@
 # java_maven_project
-This is simple java maven project for github actions
+Executing a java maven project through github actions
